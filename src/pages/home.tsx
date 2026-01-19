@@ -1,10 +1,8 @@
-import Navbar from "../components/navbar"
-
 
 export default function Home(){
     return(
         <>
-            <Navbar/>
+            
             <div className="relative text-white h-screen bg-(--main-blue) w-full">
 
                 <div className="absolute bg-[#a9baff] w-200 h-100 left-1/2 -translate-x-1/2 rounded-full blur-[160px] opacity-17"/>
